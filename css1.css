@@ -1,0 +1,16 @@
+img.tagpost_thumb{float:left;margin-right:10px;height:70px;width:100px;padding:0px;transition:all .25s ease}
+img.tagpost_thumb:hover{border-color:#aaa;}
+.taglabel{float:left;width:100%;padding:0;margin:0}
+ul.taglabel li{padding:5px 0;min-height:73px}
+#tagpost-left .widget ul,#tagpost-right .widget ul,#tagpost-bottom .widget ul{margin-top:-5px!important}
+#tagpost-left .widget,#tagpost-right .widget,#tagpost-bottom .widget{position:relative;display:block;border:1px solid #ccc;float:left;padding:1.5%}
+#tagpost-left h2,#tagpost-right h2,#tagpost-bottom h2{background:#333;color:#fff;font-family:inherit;font-weight:bold;font-size:15px;letter-spacing:.5px;position:relative;display:block;margin:0 0 10px 0;padding:15px}
+#tagpost-left .widget{margin-right:10px}
+#tagpost-bottom .widget{margin-top:10px}
+#tagpost-left .widget ul,#tagpost-right .widget ul,#tagpost-bottom .widget ul{list-style:none;margin:0;padding:0}
+#tagpost-left .widget ul li,#tagpost-right .widget ul li,#tagpost-bottom .widget ul li{display:block;font-size:12px;font-family:inherit;border-bottom:1px solid #ddd;margin:10px 0;padding:0;transition:all .6s}
+#tagpost-left .widget ul li:hover,#tagpost-right .widget ul li:hover,#tagpost-bottom .widget ul li:hover{border-bottom-color:#bbb;}
+#tagpost-left .widget li:last-child,#tagpost-right .widget li:last-child,#tagpost-bottom .widget li:last-child{border-bottom:none;margin:10px 0 0 0}
+#tagpost-left .widget ul li a,#tagpost-right .widget ul li a,#tagpost-bottom .widget ul li a{font-size:17px}
+#tagpost-left .widget,#tagpost-right .widget{width:49.522%;padding: 10px}
+#tagpost-bottom .widget{width:100%;margin-bottom: 10px}
