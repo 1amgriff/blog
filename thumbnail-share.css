@@ -1,0 +1,8 @@
+ ul.thumbnail-share{clear:both;float:left;list-style:none outside none;position:absolute;z-index:10;margin:0;padding:0;top:0px;left:0px;line-height:normal;overflow:hidden;}
+ul.thumbnail-share li{text-align:left;float:left;margin-bottom:0;margin-top:-30px;opacity:0;padding:0;transition:all 0.3s;}
+.post:hover .thumbnail-share li{opacity:1;margin-top:0;}
+ul.thumbnail-share li a{background-clip:padding-box;background-repeat:no-repeat;display:block;overflow:hidden;text-align:center;text-transform:uppercase;white-space:nowrap;width:30px;height:30px;line-height:30px;position:relative;margin:0;padding:0;font-size:14px;font-weight:normal;background-color:#fff;color:#999;transition:all 0.3s;}
+ul.thumbnail-share li a:hover{color:#fff;}
+ul.thumbnail-share li a.f-like:hover {background-color:#3c5b9b;}
+ul.thumbnail-share li a.t-share:hover {background-color:#19bfe5;}
+ul.thumbnail-share li a.gplus-share:hover {background-color:#d44132;}
