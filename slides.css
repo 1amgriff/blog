@@ -38,7 +38,7 @@
 } 
 @media only screen and (max-width:600px) {
     #slides ul { height:600px } #slides li:nth-child(1) { width:100%; height:50% } #slides li:nth-child(2) { top:50%; height:25%; left:0; width:50% } #slides li:nth-child(3) { left:50%; top:50%; width:50%; height:25% } #slides li:nth-child(4) { left:0; top:75%; height:25%; width:100% } #slides li:nth-child(5) { display:none } 
-	#slides li:nth-child(1) h4,#slides li:nth-child(4) h4  {font-size: 20px}
+	#slides li:nth-child(1) h4,#slides li:nth-child(4) h4  {font-size: 20px!important}
 	#slides h4 {font-size:16px!important}
 	
 } 
