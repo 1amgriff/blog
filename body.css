@@ -108,7 +108,7 @@ text-decoration: none;
 padding: 0px 15px;
 text-transform: uppercase;
 }
-    #menu-wrapper a:hover {color: #fff;background: #444;}
+    #menu-wrapper a:hover {color: #fff;}
 .menu-wrap li.icon {display: none;}
     #slides h4 {line-height: normal!important}
 	    #sections {padding: 20px 0px;background-color: #010923}
