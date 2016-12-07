@@ -11,7 +11,7 @@
 #slides li:nth-child(5) a:before { opacity:.38; background:#000 }
 #slides * { -moz-box-sizing:border-box; -webkit-box-sizing:border-box; box-sizing:border-box }
 #slides ul,#slides li { padding:0; margin:0; list-style:none; position:relative }
-#slides ul { height:320px }
+#slides ul { height:500px }
 #slides li { width:40%; height:100%; position:absolute; display:none }
 #slides li:nth-child(1),#slides li:nth-child(2),#slides li:nth-child(3),#slides li:nth-child(4),#slides li:nth-child(5) { display:block }
 #slides li:nth-child(1) { left:0; top:0 }
@@ -25,7 +25,7 @@
 #slides li:nth-child(1) span.dm { border-top:1px solid #111; display:block; font-size:14px; background:rgba(0,0,0,0.7); color:#fff; padding:5px 21px; text-transform:none; margin:0 }
 #slides li:nth-child(1) span.dy,#slides li:nth-child(1) span.autname { display:none }
 #slides a { padding:0 !important; border:0 !important; display:block; width:100%; height:100%; overflow:hidden }
-#slides img { display:block; width:100%; height:auto; border:0; padding:0; background-color:#333; -moz-transform:scale(1.0) rotate(0); -webkit-transform:scale(1.0) rotate(0); -ms-transform:scale(1.0) rotate(0); transform:scale(1.0) rotate(0); transition:all 0.6s linear }
+#slides img { display:block; width:100%; height:100%; border:0; padding:0; background-color:#333; -moz-transform:scale(1.0) rotate(0); -webkit-transform:scale(1.0) rotate(0); -ms-transform:scale(1.0) rotate(0); transform:scale(1.0) rotate(0); transition:all 0.6s linear }
 #slides .overlayx { display:none; width:100%; height:100%; position:absolute; z-index:2; background-image:url(https://2.bp.blogspot.com/-0haO2Mfkjjk/VDgZww2tfEI/AAAAAAAAHAk/zhu3INYSkHA/s1600/fade.png); background-position:50% 40%; background-repeat:repeat-x }
 #slides h4 { position:absolute;font-size: 20px;bottom:10px; margin:0; left:10px; text-shadow:2px 2px 0 rgba(0,0,0,0.9); padding:10px; color:#f9f9f9; z-index:3; line-height:15px; font-weight:normal; text-align:left; text-transform:none; margin-right:10px }
 #slides .label_text { font-size:12px; color:#fff; top:10px; z-index:3; left:10px; position:absolute; background:rgba(0,0,0,0.7); padding:3px 6px; text-transform:none }
