@@ -11,7 +11,7 @@
 #slides li:nth-child(5) a:before { opacity:.38; background:#000 }
 #slides * { -moz-box-sizing:border-box; -webkit-box-sizing:border-box; box-sizing:border-box }
 #slides ul,#slides li { padding:0; margin:0; list-style:none; position:relative }
-#slides ul { height:500px }
+#slides ul { height:400px }
 #slides li { width:40%; height:100%; position:absolute; display:none }
 #slides li:nth-child(1),#slides li:nth-child(2),#slides li:nth-child(3),#slides li:nth-child(4),#slides li:nth-child(5) { display:block }
 #slides li:nth-child(1) { left:0; top:0 }
