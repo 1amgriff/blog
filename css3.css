@@ -150,5 +150,5 @@ z-index: 22;
 -webkit-transform: scale(1.1) rotate(0deg);
 -ms-transform: scale(1.1) rotate(0deg);
 transform: scale(1.1) rotate(0deg);
-transition: .25s ease linear;
+transition:all .25s linear;
 }
