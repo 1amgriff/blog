@@ -144,3 +144,11 @@ color: #fff;
 font-size: 14px;
 z-index: 22;
 }
+.post-content:hover .post-main-thumb img {
+-moz-transform: scale(1.1) rotate(0deg);
+-mz-transform: scale(1.1) rotate(0deg);
+-webkit-transform: scale(1.1) rotate(0deg);
+-ms-transform: scale(1.1) rotate(0deg);
+transform: scale(1.1) rotate(0deg);
+transition: .25s ease linear;
+}
